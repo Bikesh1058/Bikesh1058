@@ -8,7 +8,7 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bikesh1058)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/)
 [![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)](https://python.org/)
 
@@ -242,11 +242,16 @@ Programming is a big part of what I do, but definitely not the only thing I'm in
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bikesh1058&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff&v=1" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bikesh1058&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff&count_private=true&cache_seconds=1800" height="170" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikesh1058&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff&v=1" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikesh1058&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff&cache_seconds=1800" height="170" alt="Top Languages" />
 
 </div>
+
+> **Note:** these stats cards are served by the free public `github-readme-stats` instance, which is shared by millions of profiles and occasionally rate-limits or times out. If the cards ever show as broken links instead of images:
+> 1. Confirm `Bikesh1058` is your exact GitHub username (case-sensitive) and your profile/repos aren't private-only.
+> 2. Open the image URL directly in a browser tab — if it errors there too, the service is temporarily down; just wait and refresh.
+> 3. For a permanent fix, [fork github-readme-stats and deploy your own free instance on Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own), then swap the domain in the URLs above for your own.
 
 ---
 
