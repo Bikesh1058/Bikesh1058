@@ -4,7 +4,7 @@
 
 ### `Computer Engineering Student` • `Full-Stack Developer` • `AI/ML Explorer`
 
-**Building things. Breaking things. Learning how they work. Building them better.**
+**I build things, break them, figure out why, and build them better.**
 
 <br>
 
@@ -22,13 +22,13 @@
 
 </div>
 
-I like building things, experimenting with ideas, and figuring out why something doesn't work until it finally does.
+I like building things, poking at ideas, and figuring out why something doesn't work until it finally does.
 
-I'm a **Computer Engineering student** interested in the intersection of **software development, artificial intelligence, and creative digital experiences**.
+I'm a Computer Engineering student, and most of my interests sit somewhere between software development, AI, and making things that are actually nice to use.
 
-I've worked with full-stack technologies such as **React, Node.js, Express, Django, MongoDB, and PostgreSQL**, while gradually diving deeper into **Machine Learning, RAG, LLM applications, and multi-agent systems**.
+I've worked with full-stack tools like **React, Node.js, Express, Django, MongoDB, and PostgreSQL**, and lately I've been spending more time on **Machine Learning, RAG, LLM applications, and multi-agent systems**.
 
-I also care about the other side of software — **how it looks, how it feels, and how people interact with it**.
+I also care about the other side of software — how it looks, how it feels, and how people actually interact with it.
 
 ---
 
@@ -43,13 +43,13 @@ I also care about the other side of software — **how it looks, how it feels, a
 🚀  Always experimenting with something
 ```
 
-* 🎓 Currently studying **Computer Engineering**
-* 💻 I enjoy building **full-stack web applications**
-* 🤖 Exploring **AI, Machine Learning, RAG, LLMs & AI Agents**
-* 🌐 Experienced with both **MERN and Django**
-* 🎨 Interested in **UI/UX and immersive digital experiences**
-* 🧠 I learn best by **building and experimenting**
-* 🚀 Usually working on something new — even if it started as a random idea
+* 🎓 Studying Computer Engineering
+* 💻 Build full-stack web apps
+* 🤖 Exploring AI, ML, RAG, LLMs, and agents
+* 🌐 Comfortable in both MERN and Django
+* 🎨 Into UI/UX and immersive interfaces
+* 🧠 I learn best by building things, not just reading about them
+* 🚀 Usually have something new going, even if it started as a dumb idea
 
 ---
 
@@ -94,14 +94,14 @@ I also care about the other side of software — **how it looks, how it feels, a
 <img src="https://img.shields.io/badge/LLM_Applications-0d1117?style=for-the-badge&logoColor=06B6D4" />
 </p>
 
-I'm particularly interested in:
+Mostly interested in:
 
-* 🧠 **Large Language Model applications**
-* 🔎 **Retrieval-Augmented Generation**
-* 🕸️ **Multi-Agent Systems**
-* 🤖 **AI Agents**
-* 🗄️ **Vector Databases**
-* 📚 **AI-powered research and knowledge systems**
+* 🧠 Large language model applications
+* 🔎 Retrieval-augmented generation
+* 🕸️ Multi-agent systems
+* 🤖 AI agents
+* 🗄️ Vector databases
+* 📚 AI-powered research and knowledge tools
 
 ---
 
@@ -113,7 +113,7 @@ I'm particularly interested in:
 <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 </p>
 
-Most of my development happens around **Git, GitHub, VS Code, Python, JavaScript, and the modern web ecosystem**.
+Most of my day-to-day happens around Git, GitHub, VS Code, Python, JavaScript, and the usual web dev stack.
 
 ---
 
@@ -148,13 +148,7 @@ Most of my development happens around **Git, GitHub, VS Code, Python, JavaScript
 
 </div>
 
-I don't always start with a perfect plan.
-
-Sometimes I just have an idea that sounds interesting and want to find out:
-
-> **"What happens if I try this?"**
-
-That's usually where the fun begins.
+I don't usually start with a perfect plan. Most of the time it's just "what happens if I try this," and that's where the fun starts.
 
 ---
 
@@ -182,13 +176,13 @@ That's usually where the fun begins.
 
 </div>
 
-I'm particularly interested in AI systems that can **reason, retrieve information, use tools, collaborate, and produce useful results** instead of simply generating a response.
+I'm mainly interested in AI systems that can reason, retrieve information, use tools, and work with other agents — not just spit out a single response and stop there.
 
 ---
 
 # 🚀 What I Like Building
 
-I enjoy projects somewhere around:
+Somewhere around:
 
 <div align="center">
 
@@ -196,24 +190,22 @@ I enjoy projects somewhere around:
 
 </div>
 
-That could mean:
+Could be:
 
-* 🌐 A full-stack web application
+* 🌐 A full-stack web app
 * 🤖 An AI-powered tool
 * 🧠 An experimental agent system
 * 🎨 An immersive interface
-* 📊 A data-driven application
-* 🧪 A completely random idea that I wanted to see working
+* 📊 A data-driven app
+* 🧪 A random idea I just wanted to see working
 
-The project doesn't always need to be huge.
-
-Sometimes **building a small thing teaches more than planning a big thing**.
+Doesn't need to be huge — a small project usually teaches more than a big plan that never leaves the whiteboard.
 
 ---
 
 # 🎨 Beyond Code
 
-Programming is a big part of what I do, but definitely not the only thing I'm interested in.
+Code's a big part of what I do, but not the only part.
 
 ### 🎨 Creative
 
@@ -227,14 +219,14 @@ Programming is a big part of what I do, but definitely not the only thing I'm in
 * 🏍️ Motorcycle mechanics & customization
 * 🌲 Outdoor survival
 * 🪵 Bushcraft
-* 🔩 Understanding how things work
+* 🔩 Taking things apart to see how they work
 
 ### 🎮 For Fun
 
 * 🎮 Gaming
-* 🧠 Strategic analysis
+* 🧠 Strategy games
 * 🌍 Exploring new places
-* 💭 Randomly going down interesting rabbit holes
+* 💭 Going down random rabbit holes
 
 ---
 
@@ -242,13 +234,11 @@ Programming is a big part of what I do, but definitely not the only thing I'm in
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bikesh1058&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff&count_private=true&cache_seconds=1800" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bikesh1058&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff&count_private=true&cache_seconds=3600" height="170" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikesh1058&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff&cache_seconds=1800" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikesh1058&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff&cache_seconds=3600" height="170" alt="Top Languages" />
 
 </div>
-
-> **Note:** if these ever show "Error Fetching Resource" (GitHub's `camo.githubusercontent.com` proxy failing to reach the stats service), it's almost always the free public `github-readme-stats` instance being overloaded or timing out — not your username. Hard-refresh the page after a few minutes, or check the raw URL directly in a new tab. For a permanent fix, [deploy your own free instance on Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and swap the domain above for yours.
 
 ---
 
@@ -267,9 +257,7 @@ DATA                 IDEAS              ADVENTURE
 
 </div>
 
-I'm still figuring out exactly where all these interests will take me.
-
-And honestly, that's part of the fun.
+Still figuring out exactly where all this leads. Honestly, that's part of the fun.
 
 ---
 
@@ -281,9 +269,9 @@ And honestly, that's part of the fun.
 
 **More AI.**
 
-**More ridiculous ideas that somehow turn into projects.**
+**More ridiculous ideas that somehow turn into real projects.**
 
-And hopefully, a lot of things I can look back at later and think:
+And hopefully a lot of things I can look back on and think:
 
 <div align="center">
 
@@ -297,7 +285,7 @@ And hopefully, a lot of things I can look back at later and think:
 
 ### 🌑 Thanks for stopping by.
 
-*If you found something interesting here, feel free to explore the repositories.*
+*If something here caught your eye, feel free to poke around the repos.*
 
 <br>
 
