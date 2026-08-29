@@ -240,11 +240,13 @@ Programming is a big part of what I do, but definitely not the only thing I'm in
 
 # 📊 GitHub
 
+# 📊 GitHub
+
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bikesh1058&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff)](https://github.com/Bikesh1058)
+<img src="https://github-readme-stats.vercel.app/api?username=Bikesh1058&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff&v=1" height="170" alt="GitHub Stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikesh1058&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff)](https://github.com/Bikesh1058)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikesh1058&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff&v=1" height="170" alt="Top Languages" />
 
 </div>
 
