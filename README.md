@@ -8,9 +8,9 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://linkedin.com/)
-[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=3776AB)](https://python.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/)
+[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)](https://python.org/)
 
 </div>
 
@@ -123,26 +123,26 @@ Most of my development happens around **Git, GitHub, VS Code, Python, JavaScript
 
 ```text
        💡 IDEA
-          │
-          ▼
+         │
+         ▼
       🔍 EXPLORE
-          │
-          ▼
+         │
+         ▼
       🧪 EXPERIMENT
-          │
-          ▼
+         │
+         ▼
        💻 BUILD
-          │
-          ▼
+         │
+         ▼
        🐛 BREAK
-          │
-          ▼
+         │
+         ▼
        🔧 FIX
-          │
-          ▼
+         │
+         ▼
        🚀 SHIP
-          │
-          ▼
+         │
+         ▼
        🔁 REPEAT
 ```
 
@@ -242,9 +242,9 @@ Programming is a big part of what I do, but definitely not the only thing I'm in
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bikesh1058&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikesh1058&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff" height="170"/>
 
 </div>
 
@@ -259,8 +259,8 @@ CODE        →        CREATE        →        EXPLORE
  │                      │                  │
  ▼                      ▼                  ▼
 WEB                  DESIGN            OUTDOORS
-AI                   EDITING           MACHINES
-DATA                 IDEAS             ADVENTURE
+AI                   EDITING            MACHINES
+DATA                 IDEAS              ADVENTURE
 ```
 
 </div>
