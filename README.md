@@ -1,244 +1,52 @@
-<div align="center">
+# Hi, I'm Bikesh 👋
 
-# 👋 Hi, I'm Bikesh Shrestha
+I'm a Computer Engineering student who spends most of my free time building things, breaking them, and figuring out why — full-stack apps, AI experiments, and the occasional idea that made no sense on paper but seemed worth trying anyway.
 
-### `Computer Engineering Student` • `Full-Stack Developer` • `AI/ML Explorer`
-
-**Building things. Breaking things. Learning how they work. Building them better.**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bikesh1058)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/)
-[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)](https://python.org/)
-
-</div>
+[GitHub](https://github.com/Bikesh1058) · [LinkedIn](https://linkedin.com/) · Python / JS / C++
 
 ---
 
-<div align="center">
+## About me
 
-### 🌌 `WELCOME TO MY CORNER OF THE INTERNET`
+I'm into the intersection of software, AI, and building things people actually enjoy using. I work across the MERN stack and Django, and lately I've been going deeper into machine learning, RAG, LLM applications, and multi-agent systems — mostly by building small projects and seeing what breaks.
 
-</div>
+I care about the design side too — not just whether something works, but whether it feels good to use.
 
-I like building things, experimenting with ideas, and figuring out why something doesn't work until it finally does.
-
-I'm a **Computer Engineering student** interested in the intersection of **software development, artificial intelligence, and creative digital experiences**.
-
-I've worked with full-stack technologies such as **React, Node.js, Express, Django, MongoDB, and PostgreSQL**, while gradually diving deeper into **Machine Learning, RAG, LLM applications, and multi-agent systems**.
-
-I also care about the other side of software — **how it looks, how it feels, and how people interact with it**.
+- Studying Computer Engineering
+- Build full-stack web apps (React, Node/Express, Django)
+- Exploring AI agents, RAG, and LLM tooling
+- Learn best by building first and reading docs when something breaks
+- Usually have two or three side projects going at once
 
 ---
 
-# 🧑‍💻 A Little About Me
+## What I work with
 
-```text
-🎓  Computer Engineering Student
-💻  Full-Stack Developer
-🤖  AI / ML Explorer
-🎨  UI/UX & Creative Technology Enthusiast
-🧠  Curious by default
-🚀  Always experimenting with something
-```
+**Languages:** Python, JavaScript, C++, HTML/CSS
 
-* 🎓 Currently studying **Computer Engineering**
-* 💻 I enjoy building **full-stack web applications**
-* 🤖 Exploring **AI, Machine Learning, RAG, LLMs & AI Agents**
-* 🌐 Experienced with both **MERN and Django**
-* 🎨 Interested in **UI/UX and immersive digital experiences**
-* 🧠 I learn best by **building and experimenting**
-* 🚀 Usually working on something new — even if it started as a random idea
+**Web:** React, Tailwind CSS, Vite, Node.js, Express, Django
+
+**Data:** MongoDB, PostgreSQL, SQLite
+
+**AI / ML:** LangChain, LangGraph, RAG pipelines, vector databases, general ML with scikit-learn
+
+**Tools:** Git, GitHub, VS Code
+
+Right now I'm mostly heads-down on AI agents — specifically systems that can retrieve information, use tools, and work with other agents instead of just answering a prompt once and stopping there.
 
 ---
 
-# 🛠️ Things I Work With
+## How I actually build things
 
-## 💻 Languages
+It's rarely a clean process. Usually it's:
 
-<p>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-</p>
+**idea → poke around → try something → build it → it breaks → fix it → ship it → immediately think of the next thing**
 
-## 🌐 Building for the Web
-
-<p>
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B" />
-</p>
-
-## 🗄️ Data & Databases
-
-<p>
-<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57" />
-</p>
-
-## 🤖 AI & Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=8B5CF6" />
-<img src="https://img.shields.io/badge/LLM_Applications-0d1117?style=for-the-badge&logoColor=06B6D4" />
-</p>
-
-I'm particularly interested in:
-
-* 🧠 **Large Language Model applications**
-* 🔎 **Retrieval-Augmented Generation**
-* 🕸️ **Multi-Agent Systems**
-* 🤖 **AI Agents**
-* 🗄️ **Vector Databases**
-* 📚 **AI-powered research and knowledge systems**
+I don't always start with a full plan. A lot of the time it's just "what happens if I try this," and that's usually where the interesting stuff happens.
 
 ---
 
-# 🧰 Tools I Use
-
-<p>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-</p>
-
-Most of my development happens around **Git, GitHub, VS Code, Python, JavaScript, and the modern web ecosystem**.
-
----
-
-# 🧠 How I Like to Build
-
-<div align="center">
-
-```text
-       💡 IDEA
-         │
-         ▼
-      🔍 EXPLORE
-         │
-         ▼
-      🧪 EXPERIMENT
-         │
-         ▼
-       💻 BUILD
-         │
-         ▼
-       🐛 BREAK
-         │
-         ▼
-       🔧 FIX
-         │
-         ▼
-       🚀 SHIP
-         │
-         ▼
-       🔁 REPEAT
-```
-
-</div>
-
-I don't always start with a perfect plan.
-
-Sometimes I just have an idea that sounds interesting and want to find out:
-
-> **"What happens if I try this?"**
-
-That's usually where the fun begins.
-
----
-
-# 🤖 Currently Exploring
-
-<div align="center">
-
-### `AI AGENTS`
-
-⬇️
-
-### `RAG SYSTEMS`
-
-⬇️
-
-### `LANGGRAPH`
-
-⬇️
-
-### `TOOL-USING AI`
-
-⬇️
-
-### `MULTI-AGENT SYSTEMS`
-
-</div>
-
-I'm particularly interested in AI systems that can **reason, retrieve information, use tools, collaborate, and produce useful results** instead of simply generating a response.
-
----
-
-# 🚀 What I Like Building
-
-I enjoy projects somewhere around:
-
-<div align="center">
-
-### `TECHNOLOGY × CREATIVITY × PRACTICALITY`
-
-</div>
-
-That could mean:
-
-* 🌐 A full-stack web application
-* 🤖 An AI-powered tool
-* 🧠 An experimental agent system
-* 🎨 An immersive interface
-* 📊 A data-driven application
-* 🧪 A completely random idea that I wanted to see working
-
-The project doesn't always need to be huge.
-
-Sometimes **building a small thing teaches more than planning a big thing**.
-
----
-
-# 🎨 Beyond Code
-
-Programming is a big part of what I do, but definitely not the only thing I'm interested in.
-
-### 🎨 Creative
-
-* UI/UX & visual design
-* 📸 Photo editing
-* 🎬 Video editing
-* 🧩 Creative problem solving
-
-### 🔧 Hands-On
-
-* 🏍️ Motorcycle mechanics & customization
-* 🌲 Outdoor survival
-* 🪵 Bushcraft
-* 🔩 Understanding how things work
-
-### 🎮 For Fun
-
-* 🎮 Gaming
-* 🧠 Strategic analysis
-* 🌍 Exploring new places
-* 💭 Randomly going down interesting rabbit holes
-
----
-
-# 📊 GitHub
+## GitHub stats
 
 <div align="center">
 
@@ -248,62 +56,14 @@ Programming is a big part of what I do, but definitely not the only thing I'm in
 
 </div>
 
-> **Note:** these stats cards are served by the free public `github-readme-stats` instance, which is shared by millions of profiles and occasionally rate-limits or times out. If the cards ever show as broken links instead of images:
-> 1. Confirm `Bikesh1058` is your exact GitHub username (case-sensitive) and your profile/repos aren't private-only.
-> 2. Open the image URL directly in a browser tab — if it errors there too, the service is temporarily down; just wait and refresh.
-> 3. For a permanent fix, [fork github-readme-stats and deploy your own free instance on Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own), then swap the domain in the URLs above for your own.
+*(If these show as plain text links instead of cards, it's usually the shared public stats service timing out or being blocked by an ad blocker/privacy extension — not your profile. Try opening the image URL directly in a new tab, or disable shields/adblock for github.com and reload.)*
 
 ---
 
-# 🌌 Beyond the Screen
+## Beyond code
 
-<div align="center">
+- **Creative:** UI/UX, photo & video editing, general messing around with design
+- **Hands-on:** motorcycle mechanics, bushcraft, figuring out how things actually work
+- **For fun:** gaming, strategy games, exploring new places, going down random rabbit holes
 
-```text
-CODE        →        CREATE        →        EXPLORE
- │                      │                  │
- ▼                      ▼                  ▼
-WEB                  DESIGN            OUTDOORS
-AI                   EDITING            MACHINES
-DATA                 IDEAS              ADVENTURE
-```
-
-</div>
-
-I'm still figuring out exactly where all these interests will take me.
-
-And honestly, that's part of the fun.
-
----
-
-# 👀 What's Next?
-
-**More building.**
-
-**More experimenting.**
-
-**More AI.**
-
-**More ridiculous ideas that somehow turn into projects.**
-
-And hopefully, a lot of things I can look back at later and think:
-
-<div align="center">
-
-## **"Yeah, I made that." 🚀**
-
-</div>
-
----
-
-<div align="center">
-
-### 🌑 Thanks for stopping by.
-
-*If you found something interesting here, feel free to explore the repositories.*
-
-<br>
-
-**Built with curiosity • powered by caffeine • occasionally fixed by Stack Overflow**
-
-</div>
+I'm still figuring out exactly where all this leads — building, breaking, and learning as I go. If something here catches your eye, feel free to poke around my repos.
